@@ -5,7 +5,7 @@
 - [Problem](#Problem)
 - [Screenshots](#Screenshots)
 - [Credits](#Credits)
-- [Lisence](#Lisence)
+- [License](#License)
 
 ## Introduction
 This project is aim to develop a **point-of-sales (POS) system** for a retail shop that can be used to generate the invoice or receipt of a transaction
@@ -58,5 +58,5 @@ This Project is developed by:
 - Chan Jia Ying - Stock management
 - Chio Xi Wen - Item maintenance
 
-## Lisence
-This project is protected by MIT [Lisence](LICENSE)
+## License
+This project is protected by MIT [License](LICENSE)
